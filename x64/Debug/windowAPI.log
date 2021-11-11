@@ -1,0 +1,11 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 디렉터리가 슬래시로 끝나지 않습니다. Output 디렉터리의 적절한 평가를 허용하는 데 필요하므로 이 빌드 인스턴스에서 슬래시를 추가합니다.
+  houseScene.cpp
+  playGround.cpp
+c:\users\speci\desktop\플밍28기\2. 포트폴리오\4주 포트폴리오\the diary of lucie - portfolio\mousecursor.h(30): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\플밍28기\2. 포트폴리오\4주 포트폴리오\the diary of lucie - portfolio\mousecursor.h(31): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  winMain.cpp
+c:\users\speci\desktop\플밍28기\2. 포트폴리오\4주 포트폴리오\the diary of lucie - portfolio\mousecursor.h(30): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\플밍28기\2. 포트폴리오\4주 포트폴리오\the diary of lucie - portfolio\mousecursor.h(31): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\플밍28기\2. 포트폴리오\4주 포트폴리오\the diary of lucie - portfolio\winmain.cpp(94): warning C4244: 'return': 'WPARAM'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  windowAPI.vcxproj -> C:\Users\speci\Desktop\플밍28기\2. 포트폴리오\4주 포트폴리오\The diary of Lucie - Portfolio\.\프레임워크.exe

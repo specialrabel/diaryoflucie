@@ -1,0 +1,340 @@
+﻿  stdafx.cpp
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\cameramanager.h(22): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\image.h(162): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\image.h(163): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\image.h(192): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\image.h(193): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\player.h(96): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\player.h(97): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\mousecursor.h(32): warning C4244: 'return': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\mousecursor.h(33): warning C4244: 'return': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  action.cpp
+  animation.cpp
+  attackState.cpp
+  bullets.cpp
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\bullets.cpp(107): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\bullets.cpp(114): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\bullets.cpp(113): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\bullets.cpp(136): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\bullets.cpp(135): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\bullets.cpp(199): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\bullets.cpp(207): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\bullets.cpp(206): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\bullets.cpp(221): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\bullets.cpp(220): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CameraManager.cpp
+  cameraState.cpp
+  collisionManager.cpp
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(69): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(71): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(87): warning C4244: '+=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(88): warning C4244: '+=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(89): warning C4244: '+=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(90): warning C4244: '+=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(91): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(92): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(97): warning C4244: '+=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(98): warning C4244: '+=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(99): warning C4244: '-=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(100): warning C4244: '-=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(101): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(102): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(113): warning C4244: '-=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(114): warning C4244: '-=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(115): warning C4244: '+=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(116): warning C4244: '+=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(117): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(118): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(123): warning C4244: '-=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(124): warning C4244: '-=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(125): warning C4244: '-=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(126): warning C4244: '-=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(127): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(128): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(141): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(143): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(169): warning C4244: '+=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(170): warning C4244: '+=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(171): warning C4244: '-=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(172): warning C4244: '-=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(173): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(174): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(185): warning C4244: '-=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(186): warning C4244: '-=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(187): warning C4244: '+=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(188): warning C4244: '+=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(189): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(190): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(195): warning C4244: '-=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(196): warning C4244: '-=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(197): warning C4244: '-=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(198): warning C4244: '-=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(199): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(200): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(211): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(213): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(229): warning C4244: '+=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(230): warning C4244: '+=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(231): warning C4244: '+=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(232): warning C4244: '+=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(233): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(234): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(245): warning C4244: '-=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(246): warning C4244: '-=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(247): warning C4244: '+=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(248): warning C4244: '+=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(249): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(250): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(261): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(263): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(279): warning C4244: '+=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(280): warning C4244: '+=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(281): warning C4244: '-=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(282): warning C4244: '-=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(283): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(284): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(295): warning C4244: '-=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(296): warning C4244: '-=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(297): warning C4244: '-=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(298): warning C4244: '-=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(299): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(300): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(542): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(544): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(558): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(559): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(560): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(561): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(586): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(588): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(622): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(624): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(658): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\collisionmanager.cpp(660): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  D2Dmanager.cpp
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\d2dmanager.cpp(170): warning C4244: '=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\d2dmanager.cpp(171): warning C4244: '=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\d2dmanager.cpp(172): warning C4244: '=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\d2dmanager.cpp(173): warning C4244: '=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\d2dmanager.cpp(253): warning C4101: 'rc' :참조되지 않은 지역 변수입니다.
+  dungeon.cpp
+  dungeon2.cpp
+  effect.cpp
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\effect.cpp(30): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\effect.cpp(56): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  effectManager.cpp
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\effectmanager.cpp(108): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  enemy.cpp
+  enemyManager.cpp
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\enemymanager.cpp(123): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\enemymanager.cpp(124): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\enemymanager.cpp(131): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\enemymanager.cpp(132): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\enemymanager.cpp(156): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\enemymanager.cpp(197): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\enemymanager.cpp(198): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\enemymanager.cpp(200): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\enemymanager.cpp(201): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\enemymanager.cpp(203): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\enemymanager.cpp(208): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\enemymanager.cpp(291): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\enemymanager.cpp(298): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\enemymanager.cpp(298): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  gameNode.cpp
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\gamenode.cpp(121): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\gamenode.cpp(122): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\gamenode.cpp(124): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\gamenode.cpp(125): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\gamenode.cpp(141): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\gamenode.cpp(112): warning C4101: 'hdc' :참조되지 않은 지역 변수입니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\gamenode.cpp(111): warning C4101: 'ps' :참조되지 않은 지역 변수입니다.
+  houseScene.cpp
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\housescene.cpp(16): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  idleState.cpp
+  image.cpp
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\image.cpp(27): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\image.cpp(28): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\image.cpp(31): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\image.cpp(32): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\image.cpp(173): warning C4244: '=': 'UINT'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\image.cpp(174): warning C4244: '=': 'UINT'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\image.cpp(175): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\image.cpp(176): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\image.cpp(438): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\image.cpp(442): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\image.cpp(469): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\image.cpp(470): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\image.cpp(480): warning C4244: '초기화 중': 'const FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\image.cpp(481): warning C4244: '초기화 중': 'const FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\image.cpp(482): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\image.cpp(483): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\image.cpp(489): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\image.cpp(492): warning C4244: '=': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\image.cpp(498): warning C4244: '=': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\image.cpp(501): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\image.cpp(507): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\image.cpp(510): warning C4244: '=': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\image.cpp(515): warning C4244: '=': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\image.cpp(518): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\image.cpp(536): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\image.cpp(537): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\image.cpp(547): warning C4244: '초기화 중': 'const FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\image.cpp(548): warning C4244: '초기화 중': 'const FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\image.cpp(549): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\image.cpp(550): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\image.cpp(556): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\image.cpp(559): warning C4244: '=': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\image.cpp(565): warning C4244: '=': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\image.cpp(568): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\image.cpp(574): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\image.cpp(577): warning C4244: '=': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\image.cpp(582): warning C4244: '=': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\image.cpp(585): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ImageManager.cpp
+  iniDataManager.cpp
+  컴파일하고 있습니다...
+  intro.cpp
+  item.cpp
+  itemManager.cpp
+  keyAniManager.cpp
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\keyanimanager.cpp(49): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\keyanimanager.cpp(61): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\keyanimanager.cpp(73): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\keyanimanager.cpp(97): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\keyanimanager.cpp(109): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\keyanimanager.cpp(121): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\keyanimanager.cpp(133): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\keyanimanager.cpp(145): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  keyManager.cpp
+  maggot.cpp
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\maggot.cpp(109): warning C4244: '+=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\maggot.cpp(112): warning C4244: '+=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  mapChange.cpp
+  MapManager.cpp
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\mapmanager.cpp(26): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\mapmanager.cpp(85): warning C4804: '<': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+  mapTool.cpp
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\maptool.cpp(20): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\maptool.cpp(21): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\maptool.cpp(22): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\maptool.cpp(23): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\maptool.cpp(24): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\maptool.cpp(26): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\maptool.cpp(27): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\maptool.cpp(28): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\maptool.cpp(29): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\maptool.cpp(30): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\maptool.cpp(124): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\maptool.cpp(123): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\maptool.cpp(275): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\maptool.cpp(290): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\maptool.cpp(289): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\maptool.cpp(304): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\maptool.cpp(303): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\maptool.cpp(302): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\maptool.cpp(301): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\maptool.cpp(462): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\maptool.cpp(463): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\maptool.cpp(464): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\maptool.cpp(465): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\maptool.cpp(466): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\maptool.cpp(467): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\maptool.cpp(468): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\maptool.cpp(470): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\maptool.cpp(471): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\maptool.cpp(472): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\maptool.cpp(473): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\maptool.cpp(474): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\maptool.cpp(476): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\maptool.cpp(477): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\maptool.cpp(479): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\maptool.cpp(482): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\maptool.cpp(485): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\maptool.cpp(871): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\maptool.cpp(870): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\maptool.cpp(869): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\maptool.cpp(868): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\maptool.cpp(878): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\maptool.cpp(877): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\maptool.cpp(876): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\maptool.cpp(875): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\maptool.cpp(883): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\maptool.cpp(893): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\maptool.cpp(901): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\maptool.cpp(902): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\maptool.cpp(903): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\maptool.cpp(904): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\maptool.cpp(905): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\maptool.cpp(907): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\maptool.cpp(908): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\maptool.cpp(909): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\maptool.cpp(910): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\maptool.cpp(911): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+  mouseCursor.cpp
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\mousecursor.cpp(30): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\mousecursor.cpp(31): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\mousecursor.cpp(44): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\mousecursor.cpp(50): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  player.cpp
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\player.cpp(37): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\player.cpp(38): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\player.cpp(65): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\player.cpp(66): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\player.cpp(76): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\player.cpp(84): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  playGround.cpp
+  runState.cpp
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\runstate.cpp(118): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\runstate.cpp(119): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\runstate.cpp(122): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\runstate.cpp(123): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\runstate.cpp(126): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\runstate.cpp(127): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\runstate.cpp(130): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\runstate.cpp(131): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  sceneManager.cpp
+  soundManager.cpp
+  startMap.cpp
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\startmap.cpp(13): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+  state.cpp
+  testMap.cpp
+  tile.cpp
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\tile.cpp(29): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\tile.cpp(28): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  timeManager.cpp
+  컴파일하고 있습니다...
+  timer.cpp
+  title.cpp
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\title.cpp(61): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\title.cpp(62): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\title.cpp(63): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\title.cpp(79): warning C4390: ';': 제어된 빈 문이 있습니다. 이 문이 필요합니까?
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\title.cpp(187): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\title.cpp(193): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\title.cpp(194): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\title.cpp(195): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\title.cpp(196): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\title.cpp(197): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  txtData.cpp
+  ui.cpp
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\ui.cpp(99): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  uiManager.cpp
+  utils.cpp
+  walkState.cpp
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\walkstate.cpp(119): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\walkstate.cpp(120): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\walkstate.cpp(123): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\walkstate.cpp(124): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\walkstate.cpp(127): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\walkstate.cpp(128): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\walkstate.cpp(131): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\walkstate.cpp(132): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  winMain.cpp
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\winmain.cpp(94): warning C4244: 'return': 'WPARAM'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다.
+c:\users\speci\desktop\취업\포트폴리오\diaryoflucie\scenemanager.cpp(89): warning C4715: 'sceneManager::currentScene': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  1874 of 1887 functions (99.3%) were compiled, the rest were copied from previous compilation.
+    2 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  windowAPI.vcxproj -> C:\Users\speci\Desktop\취업\포트폴리오\diaryoflucie\x64\Release\프레임워크.exe

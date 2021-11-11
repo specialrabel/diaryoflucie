@@ -1,0 +1,7 @@
+MouseCursor.h / cpp를 만들어서.
+
+특정경우에 마우스커서 이미지가 변경되도록
+
+MouseCursor.h에 호출함수를 만든다.
+
+ex) void setMouseCursorChange(int ImageNum) { _MouseImgNum = ImageNum;  }
